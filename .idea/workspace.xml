@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbc680fe-15ff-4fc6-86c2-78847a2321fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ContextProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/search/[keyword].tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/search/graphql/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1dWv9SQ3RuUtAoC33klFUdEbRLg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/search/detail" />
+      <recent name="$PROJECT_DIR$/src/pages/search" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbc680fe-15ff-4fc6-86c2-78847a2321fe" name="Default Changelist" comment="" />
+      <created>1592553511919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592553511919</updated>
+      <workItem from="1592553513606" duration="3105000" />
+      <workItem from="1592784039027" duration="101000" />
+      <workItem from="1592784144715" duration="3171000" />
+      <workItem from="1592787824289" duration="6864000" />
+      <workItem from="1592796590146" duration="14723000" />
+      <workItem from="1592870619790" duration="21148000" />
+      <workItem from="1593046261981" duration="2710000" />
+      <workItem from="1593064273547" duration="199000" />
+      <workItem from="1593064477879" duration="1095000" />
+      <workItem from="1593129916205" duration="310000" />
+      <workItem from="1593130238291" duration="26159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="914" y="374" key="#Inspections" timestamp="1592791563157">
+      <screen x="0" y="23" width="2560" height="1332" />
+    </state>
+    <state x="914" y="374" key="#Inspections/0.23.2560.1332/2560.23.1920.1057@0.23.2560.1332" timestamp="1592791563157" />
+    <state x="880" y="354" width="800" height="765" key="#Intentions" timestamp="1592790608231">
+      <screen x="0" y="23" width="2560" height="1332" />
+    </state>
+    <state x="880" y="354" width="800" height="765" key="#Intentions/0.23.2560.1332/2560.23.1920.1057@0.23.2560.1332" timestamp="1592790608231" />
+    <state x="781" y="328" key="SettingsEditor" timestamp="1592796575938">
+      <screen x="0" y="23" width="2560" height="1332" />
+    </state>
+    <state x="781" y="328" key="SettingsEditor/0.23.2560.1332/2560.23.1920.1057@0.23.2560.1332" timestamp="1592796575938" />
+    <state x="867" y="302" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592813410859">
+      <screen x="0" y="23" width="2560" height="1332" />
+    </state>
+    <state x="867" y="302" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2560.1332/2560.23.1920.1057@0.23.2560.1332" timestamp="1592813410859" />
+    <state x="945" y="327" width="670" height="676" key="search.everywhere.popup" timestamp="1593143599972">
+      <screen x="0" y="23" width="2560" height="1332" />
+    </state>
+    <state x="945" y="327" width="670" height="676" key="search.everywhere.popup/0.23.2560.1332/2560.23.1920.1057@0.23.2560.1332" timestamp="1593143599972" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/_document.tsx</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
