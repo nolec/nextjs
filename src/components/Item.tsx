@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import Link from "next/link";
-import {NextPage} from "next";
+import {NextComponentType, NextPage} from "next";
 import {useRouter} from "next/router";
 
 const NextLink = styled.a``;
@@ -30,7 +30,7 @@ interface IProps {
     result: any
 }
 
-const ItemLayout: NextPage<IProps> = ({result}) => {
+const ItemLayout: React.FC<IProps> = ({result}) => {
     const {query} = useRouter();
     console.log(query)
     return (

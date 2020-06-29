@@ -11,12 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbc680fe-15ff-4fc6-86c2-78847a2321fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ContextProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/search/[keyword].tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/search/graphql/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Item.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Item.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/apolloClient.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/apolloClient.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/search/[keyword].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/search/[keyword].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/search/graphql/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/search/graphql/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +81,9 @@
       <workItem from="1593064273547" duration="199000" />
       <workItem from="1593064477879" duration="1095000" />
       <workItem from="1593129916205" duration="310000" />
-      <workItem from="1593130238291" duration="26159000" />
+      <workItem from="1593130238291" duration="26249000" />
+      <workItem from="1593388868116" duration="4526000" />
+      <workItem from="1593396151530" duration="13132000" />
     </task>
     <servers />
   </component>
@@ -124,7 +129,6 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/pages/_document.tsx</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

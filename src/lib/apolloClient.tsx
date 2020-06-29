@@ -1,9 +1,7 @@
 import {useMemo} from 'react'
-import {ApolloClient} from 'apollo-client'
-import {InMemoryCache} from 'apollo-cache-inmemory'
-import {HttpLink} from 'apollo-link-http'
+import {InMemoryCache, NormalizedCacheObject,ApolloClient,HttpLink} from "apollo-boost"
 
-let apolloClient: ApolloClient<import("apollo-cache-inmemory").NormalizedCacheObject>;
+let apolloClient: ApolloClient<NormalizedCacheObject>;
 
 const createApolloClient = () => {
     return new ApolloClient({

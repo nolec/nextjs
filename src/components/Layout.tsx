@@ -1,6 +1,5 @@
 import React, { useContext, useEffect, PropsWithChildren, Props } from "react";
 import styled from "styled-components";
-import Head from "next/head";
 import Link from "next/link";
 import Context from "../Context";
 import { GetServerSidePropsContext, NextComponentType } from "next";
@@ -24,6 +23,9 @@ const Layout: NextComponentType<IProps> = ({ children }, { title }) => {
       <Header>
         <Link href="/search/[keyword]" as={`/search/${keyword}`}>
           <a>search_page</a>
+        </Link>
+        <Link href="/search/graphql">
+          <a>graphql_page</a>
         </Link>
       </Header>
       {children}

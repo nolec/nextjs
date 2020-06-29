@@ -89,7 +89,7 @@ export interface AxiosConfig extends AxiosRequestConfig {
 }
 
 export const getServerSideProps = async ({ query, req }: SearchPageContext) => {
-  const baseUrl = "https://admin-local.thesaracen.com/md/goods/list-api/goods";
+  const baseUrl = "http://admin-local.thesaracen.com/md/goods/list-api/goods";
   const keyword = `[${query.keyword}`;
   const config: AxiosConfig = {
     header: {
@@ -97,7 +97,6 @@ export const getServerSideProps = async ({ query, req }: SearchPageContext) => {
       Accept: "application/json",
     },
     params: { search_keyword: keyword.trim(), page: 1 },
-    withCredentials: true,
   };
   const result = await axios.get(baseUrl, config);
   let datalist: any = result.data.datalist;
