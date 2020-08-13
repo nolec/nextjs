@@ -65,10 +65,6 @@ export const getServerSideProps = async (
 ) => {
     const apolloClient = initializeApollo();
 
-    await apolloClient.query({
-        query: ALL_ARTICLE_QUERY,
-    });
-
     return {
         props: {
             title: "hello",

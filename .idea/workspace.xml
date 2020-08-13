@@ -12,15 +12,12 @@
   <component name="ChangeListManager">
     <list default="true" id="fbc680fe-15ff-4fc6-86c2-78847a2321fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Item.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Item.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContextProvider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContextProvider.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/apolloClient.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/apolloClient.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/search/[keyword].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/search/[keyword].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/search/graphql/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/search/graphql/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +80,31 @@
       <workItem from="1593129916205" duration="310000" />
       <workItem from="1593130238291" duration="26249000" />
       <workItem from="1593388868116" duration="4526000" />
-      <workItem from="1593396151530" duration="13132000" />
+      <workItem from="1593396151530" duration="13161000" />
+      <workItem from="1593475464159" duration="15054000" />
+      <workItem from="1593561871831" duration="1243000" />
+      <workItem from="1593647968016" duration="6041000" />
+      <workItem from="1593680936809" duration="41000" />
+      <workItem from="1593734711458" duration="1151000" />
+      <workItem from="1593993632592" duration="553000" />
+      <workItem from="1594080049276" duration="599000" />
+      <workItem from="1594166452461" duration="472000" />
+      <workItem from="1594604639842" duration="1773000" />
+      <workItem from="1594685212603" duration="591000" />
+      <workItem from="1594687535237" duration="597000" />
+      <workItem from="1594771513672" duration="727000" />
+      <workItem from="1594956301339" duration="342000" />
+      <workItem from="1595203601500" duration="384000" />
+      <workItem from="1595289745775" duration="540000" />
+      <workItem from="1595315067799" duration="464000" />
+      <workItem from="1595376225242" duration="579000" />
+      <workItem from="1596500656658" duration="1531000" />
+      <workItem from="1596585820147" duration="599000" />
+      <workItem from="1596672584940" duration="543000" />
+      <workItem from="1596692795750" duration="582000" />
+      <workItem from="1596758727074" duration="1179000" />
+      <workItem from="1597017876887" duration="1526000" />
+      <workItem from="1597113566898" duration="519000" />
     </task>
     <servers />
   </component>

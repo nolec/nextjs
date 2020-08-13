@@ -6,6 +6,8 @@ import NProgress from "nprogress";
 import 'nprogress/nprogress.css';
 import {ApolloProvider} from "@apollo/react-hooks";
 import {useApollo} from "../lib/apolloClient";
+import {NextComponentType} from "next";
+import {AppContext, AppInitialProps, AppProps} from "next/app";
 
 NProgress.configure({showSpinner: false, trickleSpeed: 300})
 
@@ -21,9 +23,9 @@ Router.events.on('routeChangeError', () => {
     NProgress.done();
 })
 
-const MyApp = ({Component, pageProps}: any) => {
-    console.log(pageProps)
+const MyApp : NextComponentType<AppContext, AppInitialProps, AppProps>  = ({Component, pageProps}) => {
     const apolloClient = useApollo(pageProps.initialApolloState);
+    console.log(pageProps)
     return (
         <ApolloProvider client={apolloClient}>
             <ContextProvider>
@@ -31,7 +33,6 @@ const MyApp = ({Component, pageProps}: any) => {
                 <Component {...pageProps}/>
             </ContextProvider>
         </ApolloProvider>
-
     )
 }
 

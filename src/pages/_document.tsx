@@ -1,6 +1,5 @@
 import Document, {DocumentContext, Html} from 'next/document'
 import {ServerStyleSheet} from 'styled-components'
-import Head from "next/head";
 import React from "react";
 import Meta from "../partials/Meta";
 

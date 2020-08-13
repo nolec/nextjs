@@ -7,7 +7,6 @@ const ContextProvider: React.FC = ({children}) => {
 
     const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         e.preventDefault();
-        console.log(e.target.value)
         const value = e.target.value;
         setKeyword(value);
     }
